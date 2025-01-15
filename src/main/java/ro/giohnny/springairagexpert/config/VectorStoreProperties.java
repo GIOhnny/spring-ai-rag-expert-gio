@@ -1,4 +1,4 @@
-package guru.springframework.springairagexpert.config;
+package ro.giohnny.springairagexpert.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;

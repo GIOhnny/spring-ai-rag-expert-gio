@@ -1,4 +1,4 @@
-package guru.springframework.springairagexpert;
+package ro.giohnny.springairagexpert;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

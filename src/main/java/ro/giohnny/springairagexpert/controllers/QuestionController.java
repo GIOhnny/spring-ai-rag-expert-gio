@@ -1,9 +1,9 @@
-package guru.springframework.springairagexpert.controllers;
+package ro.giohnny.springairagexpert.controllers;
 
 
-import guru.springframework.springairagexpert.model.Answer;
-import guru.springframework.springairagexpert.model.Question;
-import guru.springframework.springairagexpert.services.OpenAIService;
+import ro.giohnny.springairagexpert.model.Answer;
+import ro.giohnny.springairagexpert.model.Question;
+import ro.giohnny.springairagexpert.services.OpenAIService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
